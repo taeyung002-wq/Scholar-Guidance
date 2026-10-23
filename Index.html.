@@ -1,1 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My first story</title>
+</head>
+<body>
+  <h1>My first story</h1>
 
+  <img src="images/photo.jpg" alt="My parents, friends, and me" style="max-width: 100%; width: 400px;">
+
+  <p>Life is meaningful for me because of my parents, friends, and ABGs exist.</p>
+</body>
+</html>
